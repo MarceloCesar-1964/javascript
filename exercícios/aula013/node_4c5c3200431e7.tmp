@@ -1,0 +1,15 @@
+var c = 5
+do {
+    console.log(`passo ${c}`)
+    c+5
+} while (c <= 100)
+
+
+
+
+/*var c =1 
+while /*condição*/ /*(c <= 6) {
+    console.log ('tudo bem?')
+    c++
+}
+/*console.log('tudo bem?')*/
